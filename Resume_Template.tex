@@ -1,0 +1,228 @@
+%-------------------------
+% Resume in LaTeX
+% Author: Commits of Good 
+% Github: https://github.com/CommitsofGood/CGresume
+% Based on: https://github.com/sb2nov/resume (MIT License)
+% License: MIT
+%-------------------------
+
+\documentclass[letterpaper,11pt]{article}
+\usepackage{amsmath}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+% Custom tighter list environment for resume items
+\newlist{resitemize}{itemize}{1}
+\setlist[resitemize]{leftmargin=0.15in, topsep=3pt, partopsep=0pt, itemsep=1pt, parsep=0pt}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.7in}
+\addtolength{\evensidemargin}{-0.7in}
+\addtolength{\textwidth}{1.3in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.2in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-12pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+
+
+
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+% }
+\newcommand{\resumeEducationCompact}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1}  \textit{\small #2}  \text{\footnotesize #3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} {\normalfont\small\textit{#3}} & #2 \\
+    \end{tabular*}
+    \ifx&#4&\else
+      \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+        & \textit{\small #4} \\
+      \end{tabular*}
+    \fi
+    \vspace{-7pt}
+}
+
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%----------HEADING----------
+
+\begin{center}
+  \textbf{\huge \scshape First Last} \\ \vspace{1pt}
+  \small U.S. Citizen $|$ (XXX) XXX-XXXX $|$ \href{mailto:youremail@example.com}{\underline{youremail@example.com}} $|$ 
+  \href{https://linkedin.com/in/yourhandle}{\underline{linkedin.com/in/yourhandle}} $|$ 
+  \href{https://github.com/yourusername}{\underline{github.com/yourusername}}
+\end{center}
+
+%-----------EDUCATION-----------
+\section{Education}
+\resumeSubHeadingListStart
+\resumeEducationCompact
+  {UNIVERSITY NAME}
+  {B.S. Major, B.S./Minor in Second Discipline}
+  {}
+  {Month Year}
+
+\vspace{-5pt}
+\begin{itemize}[leftmargin=0.15in, label={}, topsep=2.5pt, itemsep=-4pt]
+  \item[] {
+    \footnotesize
+    \begin{tabular*}{.985\linewidth}{@{\extracolsep{\fill}}ll}
+      \textbf{Academic Awards:} Award A, Award B & \textbf{GPA:} X.XX / 4.00 \\
+    \end{tabular*}
+  }
+  \item[] {
+    \vspace{2pt}
+    \footnotesize
+    \parbox{0.95\linewidth}{
+      \textbf{Relevant Coursework:} Data Structures and Algorithms, Operating Systems, Programming Languages, Computer Organization, Discrete Mathematics, Linear Algebra, Applied Probability
+    }
+  }
+\end{itemize}
+\resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+  {Software Engineering Intern \textbar{} COMPANY NAME}{May 202X -- Aug 202X}{}{}
+  \resumeItemListStart
+    \resumeItem{Built and deployed internal dashboard features using React and Node.js, reducing admin processing time by 40\%}
+    \resumeItem{Optimized PostgreSQL queries and RESTful API integration, decreasing latency by 60\%}
+    \resumeItem{Wrote tests using Jest and Supertest to ensure 95\%+ code coverage}
+  \resumeItemListEnd
+
+\resumeSubheading
+  {ROLE 2 \textbar{} COMPANY NAME}{Jan 2023 -- Present}{}{}
+  \resumeItemListStart
+    \resumeItem{Mentored learners in a best-selling full-stack course (1M+ students), reviewing React and Node projects and offering architectural feedback}
+    \resumeItem{Debugged 200+ full-stack codebases; helped resolve async bugs, schema mismatches, and CORS issues}
+    \resumeItem{Explained middleware, routing, and backend design patterns to help users move from tutorials to production builds}
+  \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\section{Projects}
+\resumeSubHeadingListStart
+
+\resumeProjectHeading
+  {PROJECT NAME \textbar{} \emph{TypeScript, React, Node.js, Firebase} 
+    \textnormal{\small{ -- \href{https://github.com/yourusername/your-repo}{\underline{GitHub}} \textbar{} \href{https://project-live-site.com}{\underline{Live Demo}}}}}{Month Year}
+  \resumeItemListStart
+    \resumeItem{Built a real-time collaborative web app using WebSockets and Firebase}
+    \resumeItem{Designed a NoSQL schema with sub-100ms read latency for scalable sync}
+    \resumeItem{Deployed to Google Cloud Run with zero-downtime rollouts}
+  \resumeItemListEnd
+
+\resumeProjectHeading
+  {PROJECT NAME \textbar{} \emph{C, Lex/Yacc, Bytecode VM} 
+    \textnormal{\small{ -- \href{https://github.com/yourusername/your-repo}{\underline{GitHub}}}}}{Month Year}
+  \resumeItemListStart
+    \resumeItem{Created a compiled programming language with custom syntax and control flow}
+    \resumeItem{Implemented a stack-based VM and AST-based compiler for interpretation}
+    \resumeItem{Developed an interactive REPL for debugging and runtime experimentation}
+  \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0.15in, label={}]
+  \small{\item{
+    \textbf{Languages:} JavaScript, TypeScript, Python, C++, SQL, Java, HTML/CSS \\
+    \textbf{Tools/Databases:} MongoDB, PostgreSQL, Firebase, Supabase, Docker, Git, AWS, Azure, Google Cloud, Vercel \\
+    \textbf{Frameworks/Libraries:} React, Node.js, Express, Flask, FastAPI, Tailwind CSS, Socket.IO
+  }}
+\end{itemize}
+
+\end{document}
+
+
