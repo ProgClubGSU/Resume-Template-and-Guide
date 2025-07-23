@@ -62,7 +62,7 @@ Your **Education** section should be compact, clean, and front-loaded with the m
 - **GPA** (only if at least 3.5+)
 - Honors or awards ( also honors college) If nothing important put extracurriculars or leadership instead
 
-## 📸 Example Format
+**Nice! now we got the basics down...**
 
 ![Header + Education Example](images/header%20and%20education.png)
 ---
