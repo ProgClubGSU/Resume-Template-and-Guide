@@ -29,7 +29,6 @@ Here is the ordering
 > *If you're applying for internship, keep Education at the tippity top! ET intern recruiters care about your school, GPA and the fact you're a student still. When you graduate and have more work experiences, that's when experience takes precedence
 > If you've interned at a FAANG company, lead with that
 
----
 # 🧢 Resume Header: Your Name + Links
 The header of your resume should immediately tell the recruiter who you are and how to reach you — **clean, aligned, and professional.**
 
@@ -51,6 +50,18 @@ The header of your resume should immediately tell the recruiter who you are and 
 - full mailing address is OBSOLETE
 - Don't hyperlink, just in case
 
+# 🎓 Resume Education Section
+
+Your **Education** section should be compact, clean, and front-loaded with the most important info — especially if you're applying for internships.
+
+## What to include
+
+- **University name**
+- Location only if you're applying to local roles
+- **Degree + Major** (optional minor but usually not important)
+- **Expected graduation date** recruiters need to confirm this!!!
+- **GPA** (only if at least 3.5+)
+- Honors or awards ( also honors college)
 ---
 
 ## Resume Writing Formula
