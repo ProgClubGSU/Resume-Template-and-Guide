@@ -201,6 +201,9 @@ This section can easily carry your resume *if you do it right*. **Treat every pr
 - If it’s a class project — reframe it like a real product
 - Use **secure backend, real-time sync, scalable architecture, seed-based PRNG, REST/GraphQL APIs, stateless scaling, etc.** wherever you can truthfully defend it
 
+_📌 Coming up next: Skills section + how to stack your technical signal like a beast 🧠_
+
+
 ## 🚀 Getting the Template
 
 To use the LaTeX resume template:
