@@ -70,6 +70,7 @@ Your **Education** section should be compact, clean, and front-loaded with the m
 **Nice! now we got the basics down...**
 
 ![Header + Education Example](images/header%20and%20education.png)
+
 ---
 
 # Resume Writing Formula
@@ -82,8 +83,6 @@ Don't just describe what you did — explain why it mattered.
 
 > This is how we write high-signal, ATS-optimized bullets. Be concrete. Be quantifiable. Be technical.
 
----
-
 > ### ❌ Bad Example:
 > Made a multiplayer typing game using React and Socket.IO.
 
@@ -92,9 +91,7 @@ Don't just describe what you did — explain why it mattered.
 
 > _Developed a thing using these technologies to solve a problem, enabling a measurable impact._
 
----
-
-Let's take a step back and see what we did here:
+**WAIT!** Let's take a step back and see what we did here:
 - Always **start with a strong TECHNICAL action verb** (Developed, Engineered, Optimized, etc.)
 - Include a **technical feature** and with what technologies
 - Mention **why it mattered** and a **concrete result** (reduced latency by x, improved x performance by x, etc.)
