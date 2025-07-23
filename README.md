@@ -166,7 +166,10 @@ Projects are **your proof of work** — they show you can build, ship, and solve
 
 This section can easily carry your resume *if you do it right*. **Treat every project like it’s a startup feature — not a school assignment.**
 
-> Most recruiters on non-technical they will skim this section really hard, but it starts to matter more when the resume gets passed to the hiring manager or a technical team member. 
+> Most recruiters on non-technical they will skim this section really hard, but it starts to matter more when the resume gets passed to the hiring manager or a technical team member.
+
+
+![Project Example](images/project%20example.png)
 
 ## ✅ What to Include Per Project
 
