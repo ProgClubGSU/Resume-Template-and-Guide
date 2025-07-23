@@ -30,6 +30,26 @@ Here is the ordering
 > If you've interned at a FAANG company, lead with that
 
 ---
+# 🧢 Resume Header: Your Name + Links
+The header of your resume should immediately tell the recruiter who you are and how to reach you — **clean, aligned, and professional.**
+
+## ✅ What to Include (all on 1-2 LINES if possible):
+
+- **Full Name** (large, bold)
+- **Email**
+- **Phone number** (U.S. only)
+- **GitHub**
+- **LinkedIn**
+- **Portfolio or Personal Website** *(if relevant and have actualy activity)*
+- **Citizenship Status** (e.g. U.S. Citizen, if applicable and you have an ethnic name like mine "YAOHUI ZHANG" )
+
+![Header Example](images/header%20and%20education.png)
+
+❌ Common Mistakes
+- using .edu email, especially when you don't check it
+- not putting linkedin, recruiters actually look at this
+- full mailing address is OBSOLETE
+- Don't hyperlink, just in case
 
 ---
 
