@@ -2,6 +2,28 @@
 
 A clean, ATS-optimized LaTeX resume template + curated resume tips to help students and early-career developers craft impactful, recruiter-friendly resumes for software engineering, data, and technical roles.
 
+## 📚 Table of Contents
+
+- [✨ Writing an Amazing Resume](#-writing-an-amazing-resume)
+- [🧱 Resume Structure Overview](#-resume-structure-overview)
+- [👣 Back to the Basics — Baby Steps](#-back-to-the-basics--baby-steps)
+  - [🧢 Resume Header: Your Name + Links](#-resume-header-your-name--links)
+  - [🎓 Education Section](#-education-section)
+- [🧈 Bullet Points (The Bread & Butter)](#-before-we-move-on-lets-talk-bullet-points-your-bread--butter)
+  - [🎯 The XYZ Formula](#-the-xyz-formula)
+  - [📋 Bullet Point Guidelines](#-bullet-point-guidelines)
+  - [✅ Bullet Point Self-Check](#-bullet-point-self-check)
+- [💼 Work Experience Section](#-work-experience-section)
+  - [🔧 Title Upgrades](#-title-upgrades)
+  - [❌ Common Mistakes](#-common-mistakes)
+- [🛠️ Projects Section](#️-projects-section)
+  - [🎯 Project Writing Rules](#-project-writing-rules)
+  - [💡 Pro Tips](#-pro-tips)
+- [🧠 Skills Section](#-skills-section)
+  - [✅ What to Include](#-what-to-include-in-2–3-lines-max)
+  - [❌ Common Mistakes](#-common-mistakes)
+- [🚀 Getting the Template](#-getting-the-template)
+
 ---
 
 # ✨ Writing an Amazing Resume 
