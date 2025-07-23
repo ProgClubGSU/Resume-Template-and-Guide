@@ -73,7 +73,16 @@ Your **Education** section should be compact, clean, and front-loaded with the m
 
 ---
 
-# Resume Writing Formula
+# 🧈 Before We Move On... Let's Talk Bullet Points (Your Bread & Butter)
+
+Before we dive into Work Experience and Projects — we **have to** master bullet points.
+
+Why? Because they’re the **core of your resume**. This is where 90% of your technical signal comes from.
+
+Bad bullet points = mid resume.  
+Strong bullet points = resume that sounds like it came from a legit SWE internship.
+
+So let’s break it down.
 
 **EVERY. SINGLE. BULLET.** should follow the XYZ method. 
 Don't just describe what you did — explain why it mattered.
@@ -101,6 +110,13 @@ Don't just describe what you did — explain why it mattered.
 
 🎯 The goal: Make you resume/bullet points sound like it COULD'VE come from someone who just finished an internship at a startup or big tech
 > I don't care if you built it solo at 3AM
+
+### ✅ Bullet Point Self-Check
+
+- [ ] Does it start with a technical action verb?
+- [ ] Does it name at least one tool/tech?
+- [ ] Does it show *why* that feature mattered?
+- [ ] Does it include a number or result?
 
 ## 🚀 Getting the Template
 
