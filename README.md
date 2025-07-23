@@ -4,7 +4,8 @@ A clean, ATS-optimized LaTeX resume template + curated resume tips to help stude
 
 ### **[GRAB THE TEMPLATE](#-getting-the-template)**
 
-## 📚 Table of Contents
+<details>
+<summary><strong>📚 Table of Contents</strong> (click to expand)</summary>
 
 - [✨ Writing an Amazing Resume](#-writing-an-amazing-resume)
 - [🧱 Resume Structure Overview](#-resume-structure-overview)
@@ -24,7 +25,9 @@ A clean, ATS-optimized LaTeX resume template + curated resume tips to help stude
 - [🧠 Skills Section](#-skills-section)
   - [✅ What to Include](#-what-to-include-in-2–3-lines-max)
   - [❌ Common Mistakes](#-common-mistakes)
+- [🚀 Getting the Template](#-getting-the-template)
 
+</details>
 ---
 
 # ✨ Writing an Amazing Resume 
