@@ -3,71 +3,82 @@
 A clean, ATS-optimized LaTeX resume template + curated resume tips to help students and early-career developers craft impactful, recruiter-friendly resumes for software engineering, data, and technical roles.
 
 ---
-# Writing an Amazing Resume 
 
-> This guide compiles the best resume practices to get into these tech roles we're all aiming for - even with no prior experience.
+# ✨ Writing an Amazing Resume 
 
-## 🤔 Does my resume even matter that much? 
-Your resume is the **biggest asset** in your job search! Before any interview, referral, or offer - it needs to get past the recruiter screen and Applicant Tracking Systems (ATS).
-- It's asymmetric: a few hours of focused resume work can unlock dozens of interview opporunities.
-- To anyone in this space we're breaking in, your resume is often the first impression, so lets make it count
+> This guide compiles the best resume practices to get into these tech roles we're all aiming for — even with no prior experience.
+
+## 🤔 Does my resume even matter that much?
+
+Your resume is the **biggest asset** in your job search!
+
+Before any interview, referral, or offer — it needs to get past the recruiter screen and Applicant Tracking Systems (ATS).
+
+- It's asymmetric: a few hours of focused resume work can unlock dozens of interview opportunities.
+- In this space we're breaking into, your resume is often the first impression — so let’s make it count.
 
 ---
-# Resume Structure Overview
-Let's look at this logically, recruiters are spending 6-12 seconds skimming through your resume. We read words in general from Top to Bottom then Left to Right. Right? 
-So we should order by relevancy/importance in the same way! (not what's chronological)
-Here is the ordering
 
-1. **Work Experience**  -- this goes below education if you're applying to internship roles!
-2. **Education** 
+# 🧱 Resume Structure Overview
+
+Recruiters skim resumes in 6–12 seconds. Top to bottom. Left to right.
+
+So we structure by **relevance**, not **chronology**:
+
+1. **Work Experience** — put *below* Education if you're applying to internships
+2. **Education**
 3. **Skills**
 4. **Projects**
 5. **Coursework**
 6. **Leadership / Clubs**
-7. **Awards Certifications**
+7. **Awards / Certifications**
 
-> *If you're applying for internship, keep Education at the tippity top! ET intern recruiters care about your school, GPA and the fact you're a student still. When you graduate and have more work experiences, that's when experience takes precedence
-> If you've interned at a FAANG company, lead with that
+> 💡 *If you're applying for internships, keep Education at the top. Intern recruiters care most about your school, GPA, and that you're a current student. If you've interned at a FAANG company, lead with that!*
 
-# Back to the Basics - Baby Steps
+---
+
+# 👣 Back to the Basics — Baby Steps
+
+---
 
 ## 🧢 Resume Header: Your Name + Links
-The header of your resume should immediately tell the recruiter who you are and how to reach you — **clean, aligned, and professional.**
 
-### ✅ What to Include (all on 1-2 LINES if possible):
+The header should **immediately tell the recruiter who you are and how to reach you**.
+
+### ✅ What to include (on 1–2 lines max):
 
 - **Full Name** (large, bold)
 - **Email**
 - **Phone number** (U.S. only)
 - **GitHub**
 - **LinkedIn**
-- **Portfolio or Personal Website** *(if relevant and have actualy activity)*
-- **Citizenship Status** (e.g. U.S. Citizen, if applicable and you have an ethnic name like mine "YAOHUI ZHANG" )
+- **Portfolio/Website** *(if relevant and active)*
+- **Citizenship status** (especially useful if you have a non-Western name)
 
+### ❌ Common Mistakes
 
-❌ Common Mistakes
-- using .edu email, especially when you don't check it
-- not putting linkedin, recruiters actually look at this
-- full mailing address is OBSOLETE
-- Don't hyperlink, just in case
+- Using `.edu` email (especially if you don't check it)
+- Not linking LinkedIn — recruiters actually click this!
+- Including your full mailing address (obsolete)
+- Hyperlinking text (just show the raw URL)
 
-## 🎓 Resume Education Section
+---
 
-Your **Education** section should be compact, clean, and front-loaded with the most important info — especially if you're applying for internships.
+## 🎓 Education Section
 
-### What to include
+Your **Education** section should be compact, clean, and front-loaded with the most important info — especially for internships.
+
+### ✅ What to include:
 
 - **University name**
-- Location only if you're applying to local roles
-- **Degree + Major** (optional minor but usually not important)
-- **Expected graduation date** recruiters need to confirm this!!!
-- **GPA** (only if at least 3.5+)
-- Relevant Course work: Data Structure, Algorithms, Software Engineering (these are important ones)
-- Honors or awards ( also honors college) If nothing important put extracurriculars or leadership instead
+- **City/State** *(optional unless applying local)*
+- **Degree + Major** (Minor is optional)
+- **Expected graduation date** (critical!)
+- **GPA** (if 3.5+)
+- **Relevant coursework**: Data Structures, Algorithms, Software Engineering, etc.
+- **Honors/Awards** (or leadership if none)
 
-> Formatting Rule: Keep this to 2–3 lines max. It should never take up more than vertical space than your biggest project.
-
-**Nice! now we got the basics down...**
+> 🔎 Keep this to **2–3 lines max**. It should never take up more vertical space than your biggest project.
 
 ![Header + Education Example](images/header%20and%20education.png)
 
@@ -75,22 +86,18 @@ Your **Education** section should be compact, clean, and front-loaded with the m
 
 # 🧈 Before We Move On... Let's Talk Bullet Points (Your Bread & Butter)
 
-Before we dive into Work Experience and Projects — we **have to** master bullet points.
+Bullet points are **90% of your technical signal**.
 
-Why? Because they’re the **core of your resume**. This is where 90% of your technical signal comes from.
+Bad bullet points = mid resume  
+Strong bullet points = legit internship-level resume
 
-Bad bullet points = mid resume.  
-Strong bullet points = resume that sounds like it came from a legit SWE internship.
+### 🎯 The XYZ Formula
 
-So let’s break it down.
-
-**EVERY. SINGLE. BULLET.** should follow the XYZ method. 
-Don't just describe what you did — explain why it mattered.
-
-### The XYZ Formula:
-**Accomplished [X] by doing [Y], resulting in [Z}**
+**Accomplished [X] by doing [Y], resulting in [Z]**
 
 > This is how we write high-signal, ATS-optimized bullets. Be concrete. Be quantifiable. Be technical.
+
+---
 
 #### ❌ Bad Example:
 Made a multiplayer typing game using React and Socket.IO.
@@ -98,18 +105,16 @@ Made a multiplayer typing game using React and Socket.IO.
 #### ✅ Good Example:
 **Developed** a real-time multiplayer typing simulator using React and WebSockets, **to support** 50+ concurrent users with <50ms latency and persistent session states, **resulting in** 3,000+ matches played in the first month.
 
-> _Developed a thing using these technologies to solve a problem, enabling a measurable impact._
+---
 
-### **WAIT!** Let's take a step back and see what we did here:
-- Always **start with a strong TECHNICAL action verb** (Developed, Engineered, Optimized, etc.)
-- Include a **technical feature** and with what technologies
-- Mention **why it mattered** and a **concrete result** (reduced latency by x, improved x performance by x, etc.)
-- Use **NUMBERS** whereever possible 0 event estimated ones
-  
->💡 Stuck? write a messy brain-dump of what you did, then reverse-engineer a clean XYZ bullet from that.
+### 📋 Bullet Point Guidelines
 
-🎯 The goal: Make you resume/bullet points sound like it COULD'VE come from someone who just finished an internship at a startup or big tech
-> I don't care if you built it solo at 3AM
+- Start with a strong **technical action verb** (Developed, Engineered, Optimized)
+- Include a **feature** + **tech used**
+- Explain **why it mattered**
+- Include **results or metrics** if possible
+
+> 💡 Stuck? Brain-dump what you did. Then rewrite it with the XYZ structure.
 
 ### ✅ Bullet Point Self-Check
 
@@ -118,26 +123,27 @@ Made a multiplayer typing game using React and Socket.IO.
 - [ ] Does it show *why* that feature mattered?
 - [ ] Does it include a number or result?
 
-Here's a good example, third bullet point has a variation for the context of this specific experience
 ![Bullet point example](images/bullet%20points%20example.png)
 
+---
+
 # 💼 Work Experience Section
-Now we can get to the most important section on your resume, whether if you've had internships, freelance gigs, reseaerch, or even technical volunteer roles
-Even if you haven’t worked at a big company, you can still make this section look like a **real engineering resume** by writing strong technical bullets.
 
-## What to Include
+This is your **core section** if you’ve had internships, freelance gigs, research, or even volunteer engineering work.
 
-For each entry, include:
+Even without big names on your resume, you can still make this section look like a legit engineer's — if your bullets are solid.
 
-- **Position Title** (use a technical title: e.g., *Software Engineering Intern*, not “IT Helper”)
-- **Company/Organization Name**
-- **MAYBE Location** (City, State) — only if you're applying to local roles (you can have two resumes handy, one with and another without)
-- **Start & End Dates** (Month Year – Month Year or "Present")
-- 3–4 **high-signal bullet points** written using the **XYZ Formula**
+### ✅ What to Include:
 
-### Upgrading that title
-If your official title is generic or unimpressive, **upgrade it** to something both accurate but more technical 
-We really gotta sell ourselves without capping too hard.
+- **Position title** (make it sound technical!)
+- **Company/Org name**
+- **Location** *(optional; use “Remote” if relevant)*
+- **Start + End Dates**
+- **3–4 bullets** using the XYZ method
+
+---
+
+### 🔧 Title Upgrades
 
 | Original Title        | Better Version              |
 |-----------------------|-----------------------------|
@@ -146,82 +152,95 @@ We really gotta sell ourselves without capping too hard.
 | “Research Assistant”  | Computer Science Researcher |
 | “IT Assistant”        | Backend Developer           |
 
-#### ❌ Common Mistakes to Avoid
+---
 
-- ❌ Writing vague bullets like “Helped with codebase” or “Worked with React”
-- ❌ No technologies mentioned in the bullets
-- ❌ No outcome or result — just task descriptions
-- ❌ Repeating the same action verb across bullets
-- ❌ Having 5+ bullets or giant one-liners (3–4 is the sweet spot)
+### ❌ Common Mistakes
 
-#### Make sure to:
-- Use job listings on LinkedIn as inspiration for phrasing
-- If you're working on a long-term project, **write about it like it’s a job**
-- If you’ve done open source or group projects, list them here if they were organized like a team role
+- ❌ Vague bullets like “Helped with codebase”
+- ❌ No tech/tools listed
+- ❌ No outcomes or impact
+- ❌ Using the same verb repeatedly
+- ❌ 5+ bullets or one-line walls of text
 
-**TLDR: Your bullets shouldn’t sound like a student describing what they learned — they should sound like an engineer describing what they shipped.**
+### 💡 Pro Tips
+
+- Use LinkedIn job listings as inspiration
+- Write long-term personal projects like jobs
+- Open source = valid experience if team-based
+
+**TLDR**: Don’t write like a student learning — write like an engineer shipping.
+
+---
 
 # 🛠️ Projects Section
-Projects are **your proof of work** — they show you can build, ship, and solve problems even without formal experience.
 
-This section can easily carry your resume *if you do it right*. **Treat every project like it’s a startup feature — not a school assignment.**
+Projects are your **proof of work**.
 
-> Most recruiters on non-technical they will skim this section really hard, but it starts to matter more when the resume gets passed to the hiring manager or a technical team member.
+Treat every project like a feature at a startup — not a class assignment.
 
+> Most recruiters skim this, but hiring managers *read it closely*.
 
 ![Project Example](images/project%20example.png)
 
-## ✅ What to Include Per Project
+---
 
-- **Project Name** (bold or standout)
-- 1-line tech stack summary *(React, Node.js, Firestore, etc.)*
-- 3–4 high-quality **multi-line bullets** using the XYZ method
-- GitHub/demo link if available
+### ✅ What to include:
 
-## 🎯 Project Writing Rules
+- **Project name**
+- 1-line tech stack summary
+- 3–4 bullets using XYZ
+- GitHub/demo link
 
-- **Use strong action verbs** (Designed, Engineered, Integrated, etc.)
-- **Be technical** — no “made a website” or “did a project”
-- **Always include metrics** (users, latency, performance, etc.)
-- Include **backend details** or architecture if you have them
-- Each bullet should communicate:
-  - What you built
-  - Why it matters
-  - What tech was involved
-  - What results it achieved
- 
-## ❌ Common Mistakes to Avoid
+---
 
-- ❌ “Built a personal website using HTML/CSS” ← low signal
-- ❌ Listing projects without bullets
-- ❌ Repeating the same verbs like “Made,” “Created,” “Used”
-- ❌ Not mentioning technologies
-- ❌ No measurable impact or result
+### 🎯 Project Writing Rules
 
-## 💡 Pro Tips
+- Use **strong action verbs**
+- Include **tech stack**
+- Explain **problem solved**
+- Show **metrics/impact**
 
-- Think like a product engineer: What problem were you solving? Who used it? What tech decision did you make and why?
-- If it’s a class project — reframe it like a real product
-- Use **secure backend, real-time sync, scalable architecture, seed-based PRNG, REST/GraphQL APIs, stateless scaling, etc.** wherever you can truthfully defend it
+---
 
-_📌 Coming up next: Skills section + how to stack your technical signal like a beast 🧠_
+### ❌ Common Mistakes
+
+- ❌ “Built a personal website using HTML/CSS”
+- ❌ No bullets
+- ❌ Generic verbs
+- ❌ No tech
+- ❌ No results
+
+---
+
+### 💡 Pro Tips
+
+- Think like a product engineer: What problem? Who used it? What changed?
+- Reframe class projects like real-world features
+- Use phrases like:
+  - *Secure backend*
+  - *Real-time sync*
+  - *Seed-based PRNG*
+  - *Stateless scaling*
+  - *GraphQL API*
+
+---
 
 # 🧠 Skills Section
 
-This section isn’t just filler — it’s **how ATS (Applicant Tracking Systems)** match your resume to job descriptions.
+This section helps **ATS match you** to job descriptions — and rounds out your technical profile.
 
-You want to **signal real engineering readiness** without looking like a beginner who dumped every buzzword they’ve ever seen.
-**For INTERNS:** basically include almost every technology that you have touched
-## ✅ What to Include
+> For internships: include most technologies you’ve touched *and can talk about*
 
-3-4 lines MAX, you want to pick the categories that both makes sense and makes the longest lines, so nothing looks empty on the page
+---
 
-- **Programming Languages** (top to bottom, by strength)
-- **Frameworks / Libraries** (React, Express, Flask, etc.)
-- **Tools / Platforms** (Git, Firebase, Docker, etc.)
-- **Databases / Cloud** (Firestore, PostgreSQL, AWS, GCP, etc.)
+### ✅ What to Include (in 2–3 lines max)
 
-> Don’t label each group. Instead, **mix and sort by familiarity** and group type subtly.
+- Programming languages
+- Frameworks/libraries
+- Tools/platforms
+- Databases/cloud
+
+> ⚠️ Don’t label groups — mix by relevance and strength.
 
 ## ❌ Common Mistakes
 - ❌ Putting “problem solving” or “communication” — this isn’t LinkedIn
