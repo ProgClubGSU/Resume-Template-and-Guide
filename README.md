@@ -160,6 +160,45 @@ We really gotta sell ourselves without capping too hard.
 
 **TLDR: Your bullets shouldn’t sound like a student describing what they learned — they should sound like an engineer describing what they shipped.**
 
+# 🛠️ Projects Section
+Projects are **your proof of work** — they show you can build, ship, and solve problems even without formal experience.
+
+This section can easily carry your resume *if you do it right*. **Treat every project like it’s a startup feature — not a school assignment.**
+
+> Most recruiters on non-technical they will skim this section really hard, but it starts to matter more when the resume gets passed to the hiring manager or a technical team member. 
+
+## ✅ What to Include Per Project
+
+- **Project Name** (bold or standout)
+- 1-line tech stack summary *(React, Node.js, Firestore, etc.)*
+- 3–4 high-quality **multi-line bullets** using the XYZ method
+- GitHub/demo link if available
+
+## 🎯 Project Writing Rules
+
+- **Use strong action verbs** (Designed, Engineered, Integrated, etc.)
+- **Be technical** — no “made a website” or “did a project”
+- **Always include metrics** (users, latency, performance, etc.)
+- Include **backend details** or architecture if you have them
+- Each bullet should communicate:
+  - What you built
+  - Why it matters
+  - What tech was involved
+  - What results it achieved
+ 
+## ❌ Common Mistakes to Avoid
+
+- ❌ “Built a personal website using HTML/CSS” ← low signal
+- ❌ Listing projects without bullets
+- ❌ Repeating the same verbs like “Made,” “Created,” “Used”
+- ❌ Not mentioning technologies
+- ❌ No measurable impact or result
+
+## 💡 Pro Tips
+
+- Think like a product engineer: What problem were you solving? Who used it? What tech decision did you make and why?
+- If it’s a class project — reframe it like a real product
+- Use **secure backend, real-time sync, scalable architecture, seed-based PRNG, REST/GraphQL APIs, stateless scaling, etc.** wherever you can truthfully defend it
 
 ## 🚀 Getting the Template
 
