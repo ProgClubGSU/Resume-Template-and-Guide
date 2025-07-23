@@ -121,6 +121,45 @@ Made a multiplayer typing game using React and Socket.IO.
 Here's a good example, third bullet point has a variation for the context of this specific experience
 ![Bullet point example](images/bullet%20points%20example.png)
 
+# 💼 Work Experience Section
+Now we can get to the most important section on your resume, whether if you've had internships, freelance gigs, reseaerch, or even technical volunteer roles
+Even if you haven’t worked at a big company, you can still make this section look like a **real engineering resume** by writing strong technical bullets.
+
+## What to Include
+
+For each entry, include:
+
+- **Position Title** (use a technical title: e.g., *Software Engineering Intern*, not “IT Helper”)
+- **Company/Organization Name**
+- **MAYBE Location** (City, State) — only if you're applying to local roles (you can have two resumes handy, one with and another without)
+- **Start & End Dates** (Month Year – Month Year or "Present")
+- 3–4 **high-signal bullet points** written using the **XYZ Formula**
+
+### Upgrading that title
+If your official title is generic or unimpressive, **upgrade it** to something both accurate but more technical 
+We really gotta sell ourselves without capping too hard.
+
+| Original Title        | Better Version              |
+|-----------------------|-----------------------------|
+| “Intern”              | Software Engineering Intern |
+| “Volunteer Web Dev”   | Web Developer               |
+| “Research Assistant”  | Computer Science Researcher |
+| “IT Assistant”        | Backend Developer           |
+
+#### ❌ Common Mistakes to Avoid
+
+- ❌ Writing vague bullets like “Helped with codebase” or “Worked with React”
+- ❌ No technologies mentioned in the bullets
+- ❌ No outcome or result — just task descriptions
+- ❌ Repeating the same action verb across bullets
+- ❌ Having 5+ bullets or giant one-liners (3–4 is the sweet spot)
+
+- Use job listings on LinkedIn as inspiration for phrasing
+- If you're working on a long-term project, **write about it like it’s a job**
+- If you’ve done open source or group projects, list them here if they were organized like a team role
+
+**TLDR: Your bullets shouldn’t sound like a student describing what they learned — they should sound like an engineer describing what they shipped.**
+
 
 ## 🚀 Getting the Template
 
