@@ -31,6 +31,8 @@ Here is the ordering
 
 ---
 
+---
+
 ## Resume Writing Formula
 
 **EVERY. SINGLE. BULLET.** should follow the XYZ method. 
