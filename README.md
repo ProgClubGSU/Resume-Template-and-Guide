@@ -1,6 +1,7 @@
 # PROGgsu Resume Template + Guide
 
 A clean, ATS-optimized LaTeX resume template + curated resume tips to help students and early-career developers craft impactful, recruiter-friendly resumes for software engineering, data, and technical roles.
+[GRAB THE TEMPLATE](#-getting-the-template)****
 
 ## 📚 Table of Contents
 
@@ -22,7 +23,6 @@ A clean, ATS-optimized LaTeX resume template + curated resume tips to help stude
 - [🧠 Skills Section](#-skills-section)
   - [✅ What to Include](#-what-to-include-in-2–3-lines-max)
   - [❌ Common Mistakes](#-common-mistakes)
-- [🚀 Getting the Template](#-getting-the-template)
 
 ---
 
