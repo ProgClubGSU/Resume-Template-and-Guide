@@ -42,7 +42,6 @@ The header of your resume should immediately tell the recruiter who you are and 
 - **Portfolio or Personal Website** *(if relevant and have actualy activity)*
 - **Citizenship Status** (e.g. U.S. Citizen, if applicable and you have an ethnic name like mine "YAOHUI ZHANG" )
 
-![Header Example](images/header%20and%20education.png)
 
 ❌ Common Mistakes
 - using .edu email, especially when you don't check it
@@ -61,7 +60,11 @@ Your **Education** section should be compact, clean, and front-loaded with the m
 - **Degree + Major** (optional minor but usually not important)
 - **Expected graduation date** recruiters need to confirm this!!!
 - **GPA** (only if at least 3.5+)
-- Honors or awards ( also honors college)
+- Honors or awards ( also honors college) If nothing important put extracurriculars or leadership instead
+
+## 📸 Example Format
+
+![Header + Education Example](images/header%20and%20education.png)
 ---
 
 ## Resume Writing Formula
