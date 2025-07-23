@@ -206,6 +206,26 @@ This section can easily carry your resume *if you do it right*. **Treat every pr
 
 _📌 Coming up next: Skills section + how to stack your technical signal like a beast 🧠_
 
+# 🧠 Skills Section
+
+This section isn’t just filler — it’s **how ATS (Applicant Tracking Systems)** match your resume to job descriptions.
+
+You want to **signal real engineering readiness** without looking like a beginner who dumped every buzzword they’ve ever seen.
+**For INTERNS:** basically include almost every technology that you have touched
+## ✅ What to Include
+
+3-4 lines MAX, you want to pick the categories that both makes sense and makes the longest lines, so nothing looks empty on the page
+
+- **Programming Languages** (top to bottom, by strength)
+- **Frameworks / Libraries** (React, Express, Flask, etc.)
+- **Tools / Platforms** (Git, Firebase, Docker, etc.)
+- **Databases / Cloud** (Firestore, PostgreSQL, AWS, GCP, etc.)
+
+> Don’t label each group. Instead, **mix and sort by familiarity** and group type subtly.
+
+## ❌ Common Mistakes
+- ❌ Putting “problem solving” or “communication” — this isn’t LinkedIn
+- ❌ Alphabetizing or randomly ordering
 
 ## 🚀 Getting the Template
 
