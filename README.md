@@ -118,6 +118,9 @@ Made a multiplayer typing game using React and Socket.IO.
 - [ ] Does it show *why* that feature mattered?
 - [ ] Does it include a number or result?
 
+![Bullet point example](images/bullet%20points%20example.png)
+
+
 ## 🚀 Getting the Template
 
 To use the LaTeX resume template:
