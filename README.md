@@ -100,7 +100,7 @@ Made a multiplayer typing game using React and Socket.IO.
 
 > _Developed a thing using these technologies to solve a problem, enabling a measurable impact._
 
-**WAIT!** Let's take a step back and see what we did here:
+### **WAIT!** Let's take a step back and see what we did here:
 - Always **start with a strong TECHNICAL action verb** (Developed, Engineered, Optimized, etc.)
 - Include a **technical feature** and with what technologies
 - Mention **why it mattered** and a **concrete result** (reduced latency by x, improved x performance by x, etc.)
