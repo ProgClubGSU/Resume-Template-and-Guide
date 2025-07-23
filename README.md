@@ -92,10 +92,10 @@ Don't just describe what you did — explain why it mattered.
 
 > This is how we write high-signal, ATS-optimized bullets. Be concrete. Be quantifiable. Be technical.
 
-### ❌ Bad Example:
+#### ❌ Bad Example:
 Made a multiplayer typing game using React and Socket.IO.
 
-### ✅ Good Example:
+#### ✅ Good Example:
 **Developed** a real-time multiplayer typing simulator using React and WebSockets, **to support** 50+ concurrent users with <50ms latency and persistent session states, **resulting in** 3,000+ matches played in the first month.
 
 > _Developed a thing using these technologies to solve a problem, enabling a measurable impact._
