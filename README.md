@@ -62,7 +62,10 @@ Your **Education** section should be compact, clean, and front-loaded with the m
 - **Degree + Major** (optional minor but usually not important)
 - **Expected graduation date** recruiters need to confirm this!!!
 - **GPA** (only if at least 3.5+)
+- Relevant Course work: Data Structure, Algorithms, Software Engineering (these are important ones)
 - Honors or awards ( also honors college) If nothing important put extracurriculars or leadership instead
+
+> Formatting Rule: Keep this to 2–3 lines max. It should never take up more than vertical space than your biggest project.
 
 **Nice! now we got the basics down...**
 
