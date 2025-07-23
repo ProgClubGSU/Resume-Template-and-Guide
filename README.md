@@ -67,7 +67,7 @@ Your **Education** section should be compact, clean, and front-loaded with the m
 ![Header + Education Example](images/header%20and%20education.png)
 ---
 
-## Resume Writing Formula
+# Resume Writing Formula
 
 **EVERY. SINGLE. BULLET.** should follow the XYZ method. 
 Don't just describe what you did — explain why it mattered.
