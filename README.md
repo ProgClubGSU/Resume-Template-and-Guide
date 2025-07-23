@@ -1,6 +1,8 @@
 # PROGgsu Resume Template + Guide
+A clean, ATS-optimized LaTeX resume template + in-depth guide built by PROG @ GSU to help early-career developers write top-tier software engineering resumes.  
+  
+Built by students, for students — powered by [PROG @ GSU](https://proggsu.vercel.app), Georgia State’s tech club for builders, coders, and creators.
 
-A clean, ATS-optimized LaTeX resume template + curated resume tips to help students and early-career developers craft impactful, recruiter-friendly resumes for software engineering, data, and technical roles.
 
 ### **[GRAB THE TEMPLATE](#-getting-the-template)**
 
