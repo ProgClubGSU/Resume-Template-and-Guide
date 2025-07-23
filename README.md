@@ -154,6 +154,7 @@ We really gotta sell ourselves without capping too hard.
 - ❌ Repeating the same action verb across bullets
 - ❌ Having 5+ bullets or giant one-liners (3–4 is the sweet spot)
 
+#### Make sure to:
 - Use job listings on LinkedIn as inspiration for phrasing
 - If you're working on a long-term project, **write about it like it’s a job**
 - If you’ve done open source or group projects, list them here if they were organized like a team role
