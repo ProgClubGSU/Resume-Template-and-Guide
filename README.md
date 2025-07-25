@@ -52,7 +52,8 @@ Before any interview, referral, or offer — it needs to get past the recruiter 
 Recruiters skim resumes in 6–12 seconds. Top to bottom. Left to right.
 
 So we structure by **relevance**, not **chronology**:
-
+Notice how the relevancy for internships is your education that is one of the things recruiters confirm and check first, so we put that at the tippity top.
+After graduating when you have more relevant experience, education goes below it.
 1. **Work Experience** — put *below* Education if you're applying to internships
 2. **Education**
 3. **Skills**
