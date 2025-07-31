@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/images/embed_preview.png" alt="Club Banner" width="100%">
+</p>
+
 # PROGgsu Resume Template + Guide
 A clean, ATS-optimized LaTeX resume template + in-depth guide built by PROGSU to help early-career developers write top-tier software engineering resumes.  
   
