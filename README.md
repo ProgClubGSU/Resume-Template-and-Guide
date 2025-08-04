@@ -86,7 +86,7 @@ The header should **immediately tell the recruiter who you are and how to reach 
 - **GitHub**
 - **LinkedIn**
 - **Portfolio/Website** *(if relevant and active)*
-- **Citizenship status** (especially useful if you have a non-Western name)
+- ONLY IF US CITIZEN! **Citizenship status** (especially useful if you have a non-Western name)
 
 ### ❌ Common Mistakes
 
