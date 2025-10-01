@@ -254,8 +254,9 @@ This section helps **ATS match you** to job descriptions — and rounds out your
 - Alphabetizing or randomly ordering
 
 ## Getting the Template
-
-To use the LaTeX resume template:
+### Google Doc Resume Template:
+1. [Make a copy](https://docs.google.com/document/d/17HbHSMNyWPT6WssjoGNgAGWahOESpl_bz7ECVi9Rizs/edit?usp=sharing)
+### LaTeX resume template:
 
 1. **Open in Overleaf (view-only link):**  
    [Click here to view and copy](https://www.overleaf.com/read/hkwggdfzrdjf#f0af7d)
