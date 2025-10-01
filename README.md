@@ -8,39 +8,13 @@ A clean, ATS-optimized LaTeX resume template + in-depth guide built by PROGSU to
 Built by students, for students — powered by [PROGSU](https://progsu.com), Georgia State’s tech club for builders, coders, and creators.
 
 
-### **[GRAB THE TEMPLATE](#-getting-the-template)**
+### **[GRAB THE TEMPLATE](#getting-the-template)**
 
-<details>
-<summary><strong>📚 Table of Contents</strong> (click to expand)</summary>
-
-- [✨ Writing an Amazing Resume](#-writing-an-amazing-resume)
-- [🧱 Resume Structure Overview](#-resume-structure-overview)
-- [👣 Back to the Basics — Baby Steps](#-back-to-the-basics--baby-steps)
-  - [🧢 Resume Header: Your Name + Links](#-resume-header-your-name--links)
-  - [🎓 Education Section](#-education-section)
-- [🧈 Bullet Points (The Bread & Butter)](#-before-we-move-on-lets-talk-bullet-points-your-bread--butter)
-  - [🎯 The XYZ Formula](#-the-xyz-formula)
-  - [📋 Bullet Point Guidelines](#-bullet-point-guidelines)
-  - [✅ Bullet Point Self-Check](#-bullet-point-self-check)
-- [💼 Work Experience Section](#-work-experience-section)
-  - [🔧 Title Upgrades](#-title-upgrades)
-  - [❌ Common Mistakes](#-common-mistakes)
-- [🛠️ Projects Section](#️-projects-section)
-  - [🎯 Project Writing Rules](#-project-writing-rules)
-  - [💡 Pro Tips](#-pro-tips)
-- [🧠 Skills Section](#-skills-section)
-  - [✅ What to Include](#-what-to-include-in-2–3-lines-max)
-  - [❌ Common Mistakes](#-common-mistakes)
-- [🚀 Getting the Template](#-getting-the-template)
-
-</details>
----
-
-# ✨ Writing an Amazing Resume 
+# Writing an Amazing Resume 
 
 > This guide compiles the best resume practices to get into these tech roles we're all aiming for — even with no prior experience.
 
-## 🤔 Does my resume even matter that much?
+## Does my resume even matter that much?
 
 Your resume is the **biggest asset** in your job search!
 
@@ -51,7 +25,7 @@ Before any interview, referral, or offer — it needs to get past the recruiter 
 
 ---
 
-# 🧱 Resume Structure Overview
+# Resume Structure Overview
 
 Recruiters skim resumes in 6–12 seconds. Top to bottom. Left to right.
 
@@ -66,19 +40,19 @@ After graduating when you have more relevant experience, education goes below it
 6. **Leadership / Clubs**
 7. **Awards / Certifications**
 
-> 💡 *If you're applying for internships, keep Education at the top. Intern recruiters care most about your school, GPA, and that you're a current student. If you've interned at a FAANG company, lead with that!*
+> Tip: *If you're applying for internships, keep Education at the top. Intern recruiters care most about your school, GPA, and that you're a current student. If you've interned at a FAANG company, lead with that!*
 
 ---
 
-# 👣 Back to the Basics — Baby Steps
+# Back to the Basics — Baby Steps
 
 ---
 
-## 🧢 Resume Header: Your Name + Links
+## Resume Header: Your Name + Links
 
 The header should **immediately tell the recruiter who you are and how to reach you**.
 
-### ✅ What to include (on 1–2 lines max):
+### What to include (on 1–2 lines max):
 
 - **Full Name** (large, bold)
 - **Email**
@@ -88,7 +62,7 @@ The header should **immediately tell the recruiter who you are and how to reach 
 - **Portfolio/Website** *(if relevant and active)*
 - ONLY IF US CITIZEN! **Citizenship status** (especially useful if you have a non-Western name)
 
-### ❌ Common Mistakes
+### Common Mistakes
 
 - Using `.edu` email (especially if you don't check it)
 - Not linking LinkedIn — recruiters actually click this!
@@ -97,11 +71,11 @@ The header should **immediately tell the recruiter who you are and how to reach 
 
 ---
 
-## 🎓 Education Section
+## Education Section
 
 Your **Education** section should be compact, clean, and front-loaded with the most important info — especially for internships.
 
-### ✅ What to include:
+### What to include:
 
 - **University name**
 - **City/State** *(optional unless applying local)*
@@ -111,20 +85,20 @@ Your **Education** section should be compact, clean, and front-loaded with the m
 - **Relevant coursework**: Data Structures, Algorithms, Software Engineering, etc.
 - **Honors/Awards** (or leadership if none)
 
-> 🔎 Keep this to **2–3 lines max**. It should never take up more vertical space than your biggest project.
+> Note: Keep this to **2–3 lines max**. It should never take up more vertical space than your biggest project.
 
 ![Header + Education Example](images/header%20and%20education.png)
 
 ---
 
-# 🧈 Before We Move On... Let's Talk Bullet Points (Your Bread & Butter)
+# Before We Move On... Let's Talk Bullet Points (Your Bread & Butter)
 
 Bullet points are **90% of your technical signal**.
 
 Bad bullet points = mid resume  
 Strong bullet points = legit internship-level resume
 
-### 🎯 The XYZ Formula
+### The XYZ Formula
 
 **Accomplished [X] by doing [Y], resulting in [Z]**
 
@@ -132,24 +106,24 @@ Strong bullet points = legit internship-level resume
 
 ---
 
-#### ❌ Bad Example:
+#### Bad Example:
 Made a multiplayer typing game using React and Socket.IO.
 
-#### ✅ Good Example:
+#### Good Example:
 **Developed** a real-time multiplayer typing simulator using React and WebSockets, **to support** 50+ concurrent users with <50ms latency and persistent session states, **resulting in** 3,000+ matches played in the first month.
 
 ---
 
-### 📋 Bullet Point Guidelines
+### Bullet Point Guidelines
 
 - Start with a strong **technical action verb** (Developed, Engineered, Optimized)
 - Include a **feature** + **tech used**
 - Explain **why it mattered**
 - Include **results or metrics** if possible
 
-> 💡 Stuck? Brain-dump what you did. Then rewrite it with the XYZ structure.
+> Tip: Stuck? Brain-dump what you did. Then rewrite it with the XYZ structure.
 
-### ✅ Bullet Point Self-Check
+### Bullet Point Self-Check
 
 - [ ] Does it start with a technical action verb?
 - [ ] Does it name at least one tool/tech?
@@ -160,13 +134,13 @@ Made a multiplayer typing game using React and Socket.IO.
 
 ---
 
-# 💼 Work Experience Section
+# Work Experience Section
 
 This is your **core section** if you’ve had internships, freelance gigs, research, or even volunteer engineering work.
 
 Even without big names on your resume, you can still make this section look like a legit engineer's — if your bullets are solid.
 
-### ✅ What to Include:
+### What to Include:
 
 - **Position title** (make it sound technical!)
 - **Company/Org name**
@@ -176,7 +150,7 @@ Even without big names on your resume, you can still make this section look like
 
 ---
 
-### 🔧 Title Upgrades
+### Title Upgrades
 
 | Original Title        | Better Version              |
 |-----------------------|-----------------------------|
@@ -187,15 +161,15 @@ Even without big names on your resume, you can still make this section look like
 
 ---
 
-### ❌ Common Mistakes
+### Common Mistakes
 
-- ❌ Vague bullets like “Helped with codebase”
-- ❌ No tech/tools listed
-- ❌ No outcomes or impact
-- ❌ Using the same verb repeatedly
-- ❌ 5+ bullets or one-line walls of text
+- Vague bullets like “Helped with codebase”
+- No tech/tools listed
+- No outcomes or impact
+- Using the same verb repeatedly
+- 5+ bullets or one-line walls of text
 
-### 💡 Pro Tips
+### Pro Tips
 
 - Use LinkedIn job listings as inspiration
 - Write long-term personal projects like jobs
@@ -205,7 +179,7 @@ Even without big names on your resume, you can still make this section look like
 
 ---
 
-# 🛠️ Projects Section
+# Projects Section
 
 Projects are your **proof of work**.
 
@@ -217,7 +191,7 @@ Treat every project like a feature at a startup — not a class assignment.
 
 ---
 
-### ✅ What to include:
+### What to include:
 
 - **Project name**
 - 1-line tech stack summary
@@ -226,7 +200,7 @@ Treat every project like a feature at a startup — not a class assignment.
 
 ---
 
-### 🎯 Project Writing Rules
+### Project Writing Rules
 
 - Use **strong action verbs**
 - Include **tech stack**
@@ -235,17 +209,17 @@ Treat every project like a feature at a startup — not a class assignment.
 
 ---
 
-### ❌ Common Mistakes
+### Common Mistakes
 
-- ❌ “Built a personal website using HTML/CSS”
-- ❌ No bullets
-- ❌ Generic verbs
-- ❌ No tech
-- ❌ No results
+- “Built a personal website using HTML/CSS”
+- No bullets
+- Generic verbs
+- No tech
+- No results
 
 ---
 
-### 💡 Pro Tips
+### Pro Tips
 
 - Think like a product engineer: What problem? Who used it? What changed?
 - Reframe class projects like real-world features
@@ -258,7 +232,7 @@ Treat every project like a feature at a startup — not a class assignment.
 
 ---
 
-# 🧠 Skills Section
+# Skills Section
 
 This section helps **ATS match you** to job descriptions — and rounds out your technical profile.
 
@@ -266,25 +240,25 @@ This section helps **ATS match you** to job descriptions — and rounds out your
 
 ---
 
-### ✅ What to Include (in 2–3 lines max)
+### What to Include (in 2–3 lines max)
 
 - Programming languages
 - Frameworks/libraries
 - Tools/platforms
 - Databases/cloud
 
-> ⚠️ Don’t label groups — mix by relevance and strength.
+> Caution: Don’t label groups — mix by relevance and strength.
 
-## ❌ Common Mistakes
-- ❌ Putting “problem solving” or “communication” — this isn’t LinkedIn
-- ❌ Alphabetizing or randomly ordering
+## Common Mistakes
+- Putting “problem solving” or “communication” — this isn’t LinkedIn
+- Alphabetizing or randomly ordering
 
-## 🚀 Getting the Template
+## Getting the Template
 
 To use the LaTeX resume template:
 
 1. **Open in Overleaf (view-only link):**  
-   👉 [Click here to view and copy](https://www.overleaf.com/read/hkwggdfzrdjf#f0af7d)
+   [Click here to view and copy](https://www.overleaf.com/read/hkwggdfzrdjf#f0af7d)
 
 2. **Make a copy to your own Overleaf account**  
    File → Copy Project
@@ -294,4 +268,3 @@ To use the LaTeX resume template:
 ---
 
 More tips, writing patterns, and examples coming soon...
-
